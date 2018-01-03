@@ -4,4 +4,4 @@ We created a website that would allow a user to select different attributes of d
 The idea for this project was to use a database to display and retrieve information for a webpage. The project is currently incomplete.
 We had to learn how to use Hibernate to do this project and we only managed to get the laptop and the user part of the project running.
 
-However, even though the learning curve was steep, we managed to learn Hibernate and get the job done.
+However, even though the learning curve was steep, we managed to learn Hibernate and get the job done. Please feel free to use this project to understand how it works and to take inspiration from it.
